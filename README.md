@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajachandi
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on my upcoming project 
+- 💞️ I’m looking to collaborate on my upcoming WEB project 
 - 📫 How to reach me " rajaajay1@hotmail.com"
 
 <!---
